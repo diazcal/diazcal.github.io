@@ -1,2 +1,2 @@
 # diazcal.github.io
-Personal site
+A simple static page.
