@@ -10,10 +10,10 @@ Done. This very repo.
 Dominio > Administrar DNS
 1. Delete any "A" type
 2. Add the following entries (Github IP):
-   1. "A" 185.199.108.153
-   2. "A" 185.199.109.153
-   3. "A" 185.199.110.153
-   4. "A" 185.199.111.153
+   1. A "@" 185.199.108.153
+   2. A "@" 185.199.109.153
+   3. A "@" 185.199.110.153
+   4. A "@" 185.199.111.153
 3. Update CNAME "www" from domain name to diazcal.github.com
 ### 4. Update Github repo configuration
 Settings > Pages
