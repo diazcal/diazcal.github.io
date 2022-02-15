@@ -14,7 +14,7 @@ Dominio > Administrar DNS
    2. "A" 185.199.109.153
    3. "A" 185.199.110.153
    4. "A" 185.199.111.153
-3. Update "www" type to diazcal.github.com
+3. Update CNAME "www" from domain name to diazcal.github.com
 ### 4. Update Github repo configuration
 Settings > Pages
 
